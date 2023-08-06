@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Ruimin Gao! I am a junior undergraduate at University of Michigan.
+I'm Ruimin Gao! I am a senior undergraduate at University of Michigan.
 
-I'm currently learning Computer Science and Cognitive Psychology (and perhaps Linguistics ...)
+I'm currently learning Computer Science & Psychology. I am engaged in research in biopsychology and computational neurolinguistics. I am also doing web and platform dev.
 
-You can contact me at [my email](mailto:ruimin_gao@outlook.com?subject=[GitHub]%20Say%20Hi)
+I'm curious about everything <3
 
-[![Ruimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiminGao)](https://github.com/anuraghazra/github-readme-stats)
+You can contact me at [my email](mailto:ruimin_gao@outlook.com?subject=[GitHub]%20Say%20Hi).
