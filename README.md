@@ -4,6 +4,8 @@ I'm Ruimin Gao! I am a research technician at the Language, Intelligence & Thoug
 
 You can contact me at [my email](mailto:ruimin_gao@outlook.com?subject=[GitHub]%20Say%20Hi).
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuiminGao)](https://git.io/streak-stats)
+
 ### My tech stack:
 
 <div align="center">
